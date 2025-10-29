@@ -1,48 +1,48 @@
-# [your app name here]
+FitTrack-FinalProject
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Adrian Ricketts, Abby Wambach, Anthony Zhou
 
-🔗 Link to deployed app:
+🔗 Link to deployed app: pending
 
 ## About
 
-### Description and Purpose
+FitTrack helps users log workouts, track fitness goals, and visualize progress over time. 
 
-[text goes here]
-
-### Inspiration
-
-[text goes here]
+We wanted to make staying active more rewarding and trackable, inspired by gamified health apps like Strava and Fitbit. *Inspiration
 
 ## Tech Stack
 
-Frontend:
+Frontend:  React, React Router  
 
-Backend:
+Backend:  Express, PostgreSQL, Node.js
 
 ## Features
 
-### [Name of Feature 1]
+### User Profiles & Workout Logging
 
-[short description goes here]
+Users can create an account and log daily workouts, including exercise names, sets, reps, and duration. Each workout entry is saved to their personal profile.
 
-[gif goes here]
+[pending gif]
 
-### [Name of Feature 2]
+### Fitness Goals & Progress Tracker
 
-[short description goes here]
+Users can set personalized fitness goals (e.g., run 5 miles, bench 150 lbs) and visualize their progress through a dashboard showing completion rates and trends.
 
-[gif goes here]
+[pending gif]
 
-### [Name of Feature 3]
+### Achievements & Milestones
 
-[short description goes here]
+Users unlock achievements for consistency (like “7-Day Streak” or “First 10 Workouts”). Achievements appear as badges on their profile, encouraging motivation and retention.
 
-[gif goes here]
+[pending gif]
 
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+### [ADDITIONAL FEATURES Pending]
+Leaderboard comparing users’ progress
+Dark mode toggle
+Automated “Beginner Workout Plan” generator (Custom Feature #1)
+Error handling for invalid workout entries (Custom Feature #2)
 
 ## Installation Instructions
 
