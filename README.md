@@ -20,19 +20,19 @@ Backend:  Express, PostgreSQL, Node.js
 
 ## Features
 
-### User Profiles & Workout Logging
+### User Profiles & Workout Logging (Features #1 & 2)
 
 Users can create an account and log daily workouts, including exercise names, sets, reps, and duration. Each workout entry is saved to their personal profile.
 
 [pending gif]
 
-### Fitness Goals & Progress Tracker
+### Fitness Goals & Progress Tracker (Features #3 & 4)
 
 Users can set personalized fitness goals (e.g., run 5 miles, bench 150 lbs) and visualize their progress through a dashboard showing completion rates and trends.
 
 [pending gif]
 
-### Achievements & Milestones
+### Achievements & Milestones (Features #5 & 6)
 
 Users unlock achievements for consistency (like “7-Day Streak” or “First 10 Workouts”). Achievements appear as badges on their profile, encouraging motivation and retention.
 
@@ -41,8 +41,8 @@ Users unlock achievements for consistency (like “7-Day Streak” or “First 1
 ### [ADDITIONAL FEATURES Pending]
 Leaderboard comparing users’ progress
 Dark mode toggle
-Automated “Beginner Workout Plan” generator (Custom Feature #1)
-Error handling for invalid workout entries (Custom Feature #2)
+Automated “Beginner Workout Plan” generator (Custom Feature #1) 
+Error handling for invalid workout entries (Custom Feature #2) 
 
 ## Installation Instructions
 
