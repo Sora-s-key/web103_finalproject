@@ -14,6 +14,31 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 6. Achievements
 7. User Achievements
 
+## Relationships
+
+- **Users → Workouts** (one-to-many)
+  - Each user can have many workouts
+
+- **Users → Goals** (one-to-many)
+  - Each user can have many goals
+
+- **Users → User_Achievements** (one-to-many)
+  - Each user can have many achievement records
+
+- **Workouts → Exercises** (one-to-many)
+  - Each workout can contain many exercises
+
+- **Goals → Milestones** (one-to-many)
+  - Each goal automatically generates multiple milestones
+  - Eg. When a user sets a goal to "Run 100 miles," the system automatically creates milestones at 25, 50, 75, and 100 miles
+
+- **Achievements → User_Achievements** (one-to-many)
+  - Each achievement can be earned by many users
+  - Eg. Pre-defined achievements like "7-Day Streak" are stored once in the database
+
+- **Users ↔ Achievements** (many-to-many through User_Achievements)
+  - Users can earn multiple achievements, and achievements can be earned by multiple users
+
 ## Add the Entity Relationship Diagram
 
 [👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
