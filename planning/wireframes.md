@@ -4,18 +4,18 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+6-7 web pages total. 3 currently outlined. (4 pending are Milestones, Workout Data, FAQ page, About Us )
 
-## Wireframe 1: [page title]
+## Wireframe 1: Home Page ⭐ 
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+https://www.figma.com/design/tIc7RablxuOKtwQyiFDy10/FitTrack?node-id=2-1356&t=LDoMMt0ORTqnbLUF-0  
 
-## Wireframe 2: [page title]
+## Wireframe 2: Subscription ⭐
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+https://www.figma.com/design/tIc7RablxuOKtwQyiFDy10/FitTrack?node-id=2-2224&t=LDoMMt0ORTqnbLUF-1
 
-## Wireframe 3: [page title]
+## Wireframe 3: Profile Page ⭐
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+https://www.figma.com/design/tIc7RablxuOKtwQyiFDy10/FitTrack?node-id=2-3868&t=LDoMMt0ORTqnbLUF-1 
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
+[👉🏾👉🏾👉🏾 pending more wireframes]
