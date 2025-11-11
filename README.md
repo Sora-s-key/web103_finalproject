@@ -1,4 +1,4 @@
-# FitTrack-FinalProject
+# CoreSync-FinalProject
 
 CodePath WEB103 Final Project
 
