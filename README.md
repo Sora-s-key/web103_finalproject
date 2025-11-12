@@ -30,13 +30,13 @@ Gif: https://imgflip.com/gif/aburo6
 
 Users can set personalized fitness goals (e.g., run 5 miles, bench 150 lbs) and visualize their progress through a dashboard showing completion rates and trends.
 
-Gif: https://imgflip.com/gif/abuqsx
+Gif: https://imgflip.com/gif/abus72
 
 ### Achievements & Milestones (Features #5 & 6)
 
 Users unlock achievements for consistency (like “7-Day Streak” or “First 10 Workouts”). Achievements appear as badges on their profile, encouraging motivation and retention.
 
-Gif: https://imgflip.com/gif/aburcy
+Gif: https://imgflip.com/gif/aburzw
 
 ### [ADDITIONAL FEATURES Pending, Reviewed 11.11.2025 ]
 Leaderboard comparing users’ progress
